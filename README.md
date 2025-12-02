@@ -28,7 +28,9 @@ A new directory containing 33 test images is created later for prediction purpos
 ├── main.py                     # Streamlit application
 ├── trained_model.h5 / .keras   # Trained model
 ├── training_hist.json          # Model training history
-├── plantimage.jpg              # Example image displayed in UI
+├── plantimage.jpg
+├── Train_plant_disease.ipynb   # Notebook used for model training
+└── Test_Plant_Disease.ipynb    # Notebook used for testing predictions
 ├── train/                      # Training dataset
 ├── valid/                      # Validation dataset
 └── test/                       # Testing dataset
