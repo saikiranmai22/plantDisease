@@ -1,0 +1,10 @@
+tensorflow==2.20.0
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
+seaborn
+streamlit
+h5py
+protobuf
