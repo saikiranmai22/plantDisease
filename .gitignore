@@ -4,4 +4,3 @@ valid/
 *.h5
 *.keras
 .ipynb_checkpoints/
-*.ipynb
