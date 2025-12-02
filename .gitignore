@@ -1,7 +1,6 @@
 train/
 test/
 valid/
-*.h5
-*.keras
+plant_disease_model.h5
+plant_disease_model.keras
 .ipynb_checkpoints/
-*.ipynb
